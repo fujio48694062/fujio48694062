@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fujio48694062.
-- 👀 I’m interested in games. I especially like "Touhou Project" and "Undertale". 
+- 👀 I’m interested in games. I especially like game music.
 - 🌱 I’m currently learning information systems at university. For example, programming in C or Python.
 - 💞️ I’m looking to collaborate on game creation.
 - 📫 How to reach me: Please send an email to fujio48694062@icloud.com.
